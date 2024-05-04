@@ -1,24 +1,39 @@
-import logo from './logo.svg';
 import './App.css';
+
+import './css/plugins/feature.css'
+// import './css/vendor/aos.css'
+import './css/vendor/bootstrap.min.css'
+import './css/vendor/slick-theme.css'
+import './css/vendor/slick.css'
+import './css/style.css'
+
+
+// import './js/main1.js'
+// import './js/main.js'
+
+
+
+import Header from './components/header/Header'
+import Slider from './components/slider/Slider'
+import Education from './components/education/Education'
+import Skills from './components/skills/Skills'
+import Projects from './components/projects/Projects'
+import Contact from './components/contact/Contact'
+import ArrowButtton from './components/arrowbutton/ArrowButton';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header />
+      <Slider />
+      <Education />
+      <Skills />
+      <Projects />
+      <Contact />
+      <ArrowButtton />
+      <Footer />
+    </>
   );
 }
 

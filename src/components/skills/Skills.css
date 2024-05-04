@@ -1,0 +1,8 @@
+.progress-bar {
+    transition: width 1s ease-in-out; /* Smooth transition with ease-in-out easing function */
+}
+
+/* Optionally, you can add styles for the percent label */
+.percent-label {
+    transition: opacity 0.5s ease-in-out; /* Smooth transition for opacity changes */
+}
