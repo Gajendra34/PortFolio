@@ -1,6 +1,6 @@
 import contact from './contact1.png'
 import FeatherIcon from 'feather-icons-react';
-import Swal from 'sweetalert2';
+// import Swal from 'sweetalert2';
 import { useState, useEffect } from 'react'
 import './Contact.css'
 
@@ -64,8 +64,8 @@ ${data.message}`;
                                 </div>
                                 <div class="description">
                                     <p>Connect with me via and call in to my account.</p>
-                                    <span class="phone">Phone: <a href="#">+91 9664119195</a></span>
-                                    <span class="mail">Email: <a href="#">gajendra34940@gmail.com</a></span>
+                                    <span class="phone">Phone: <a>+91 9664119195</a></span>
+                                    <span class="mail">Email: <a>gajendra34940@gmail.com</a></span>
                                 </div>
                                 <div class="social-area">
                                     <div class="name">FIND WITH ME</div>
