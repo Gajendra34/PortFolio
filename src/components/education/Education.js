@@ -38,7 +38,7 @@ const Education = () => {
                                                                         <span>NIT Surat (2021 - 2025)</span>
                                                                     </div>
                                                                     <div class="date-of-time">
-                                                                        <span>7.85/10</span>
+                                                                        <span>7.87/10</span>
                                                                     </div>
                                                                 </div>
 
