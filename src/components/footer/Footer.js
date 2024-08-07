@@ -10,7 +10,7 @@ const Footer = () => {
                             <div class="logo">
                                 <img src={logo} alt="logo" style={{ borderRadius: '100%' }} width="60px" />
                             </div>
-                            <p class="description mt--30">© coderRv 2024. All rights reserved by Gajendra <a
+                            <p class="description mt--30">© coderRv 2024. All rights reserved by <span style={{ color: "#FF033E" }}>Gajendra</span> <a
                                 target="_blank"></a>
                             </p>
                         </div>
