@@ -48,7 +48,7 @@ const Slider = () => {
                                                     Web Developer. With a strong background in Computer Science and
                                                     Engineering from Sardar Vallabhbhai National Institute of Technology (NIT
                                                     SURAT), I have developed expertise in a wide range of technologies including
-                                                    JavaScript, C, C++, ReactJS, NextJS, Node.js, MongoDB, SQL, Express.js and Appwrite.
+                                                    JavaScript, C, C++, ReactJS, NextJS, NodeJS, MongoDB, SQL, ExpressJS and Appwrite.
                                                     Throughout my career, I have been driven by a desire to tackle challenges
                                                     and apply my knowledge and skills to create impactful projects. I have
                                                     successfully coordinated team projects and developed personal frontend
