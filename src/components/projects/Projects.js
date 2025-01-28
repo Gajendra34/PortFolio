@@ -382,10 +382,14 @@ const Projects = () => {
                                                 <span>LIKE THIS </span>
                                                 <FeatherIcon icon="thumbs-up" />
                                             </a>
-                                            <a href="https://blog-app-delta-weld.vercel.app/" style={{ pointerEvents: "none" }} target="_blank" class="rn-btn">
+                                            <a href="https://blog-app-delta-weld.vercel.app/" target="_blank" class="rn-btn">
                                                 <span>VIEW PROJECT</span>
                                                 <FeatherIcon icon="chevron-right" />
                                             </a>
+                                            {/* <a href="https://blog-app-delta-weld.vercel.app/" style={{ pointerEvents: "none" }} target="_blank" class="rn-btn">
+                                                <span>VIEW PROJECT</span>
+                                                <FeatherIcon icon="chevron-right" />
+                                            </a> */}
                                         </div>
 
                                     </div>
@@ -431,10 +435,14 @@ const Projects = () => {
                                                 <span>LIKE THIS </span>
                                                 <FeatherIcon icon="thumbs-up" />
                                             </a>
-                                            <a href="https://enigma-msg.vercel.app/" style={{ pointerEvents: "none" }} target="_blank" class="rn-btn">
+                                            <a href="https://enigma-msg.vercel.app/" target="_blank" class="rn-btn">
                                                 <span>VIEW PROJECT</span>
                                                 <FeatherIcon icon="chevron-right" />
                                             </a>
+                                            {/* <a href="https://enigma-msg.vercel.app/" style={{ pointerEvents: "none" }} target="_blank" class="rn-btn">
+                                                <span>VIEW PROJECT</span>
+                                                <FeatherIcon icon="chevron-right" />
+                                            </a> */}
                                         </div>
 
                                     </div>
@@ -480,10 +488,14 @@ const Projects = () => {
                                                 <span>LIKE THIS </span>
                                                 <FeatherIcon icon="thumbs-up" />
                                             </a>
-                                            <a href="https://music-s.netlify.app/" style={{ pointerEvents: "none" }} target="_blank" className="rn-btn">
+                                            <a href="https://music-s.netlify.app/" target="_blank" className="rn-btn">
                                                 <span>VIEW PROJECT</span>
                                                 <FeatherIcon icon="chevron-right" />
                                             </a>
+                                            {/* <a href="https://music-s.netlify.app/" style={{ pointerEvents: "none" }} target="_blank" className="rn-btn">
+                                                <span>VIEW PROJECT</span>
+                                                <FeatherIcon icon="chevron-right" />
+                                            </a> */}
                                         </div>
 
                                     </div>
