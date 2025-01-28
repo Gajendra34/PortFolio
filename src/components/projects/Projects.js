@@ -330,10 +330,14 @@ const Projects = () => {
                                                 <span>LIKE THIS </span>
                                                 <FeatherIcon icon="thumbs-up" />
                                             </a>
-                                            <a href="https://todo-list-pi-ten-20.vercel.app/" style={{ pointerEvents: "none" }} target="_blank" class="rn-btn">
+                                            <a href="https://todo-list-pi-ten-20.vercel.app/" target="_blank" class="rn-btn">
                                                 <span>VIEW PROJECT</span>
                                                 <FeatherIcon icon="chevron-right" />
                                             </a>
+                                            {/* <a href="https://todo-list-pi-ten-20.vercel.app/" style={{ pointerEvents: "none" }} target="_blank" class="rn-btn">
+                                                <span>VIEW PROJECT</span>
+                                                <FeatherIcon icon="chevron-right" />
+                                            </a> */}
                                         </div>
 
                                     </div>
