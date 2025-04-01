@@ -51,8 +51,9 @@ const Education = () => {
                                                                     <div class="title">
                                                                         <h4> Board of Senior Secondary Education Rajasthan
                                                                         </h4>
-                                                                        <span>Sumit Bal Senior Seccondary School
-                                                                            (2019)</span>
+                                                                        <span>Sumit Bal Senior Secondary School, Kota, Rajasthan
+                                                                            {/* (2019) */}
+                                                                            </span>
                                                                     </div>
                                                                     <div class="date-of-time">
                                                                         <span>86.00%</span>
@@ -66,8 +67,9 @@ const Education = () => {
                                                                 <div class="heading">
                                                                     <div class="title">
                                                                         <h4> Board of Secondary Education Rajasthan</h4>
-                                                                        <span>Sumit Bal Senior Seccondary School
-                                                                            (2017)</span>
+                                                                        <span>Sumit Bal Senior Secondary School, Kota, Rajasthan
+                                                                            {/* (2017) */}
+                                                                            </span>
                                                                     </div>
                                                                     <div class="date-of-time">
                                                                         <span>81.67%</span>
