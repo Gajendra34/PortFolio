@@ -72,6 +72,21 @@ const Slider = () => {
                                                     </ul>
                                                 </div>
                                             </div>
+                                            <div class="col-lg-6 col-xl-6 col-md-6 col-sm-6 col-12">
+                                                <div class="social-share-inner-left">
+                                                    <span class="title">Coding Profile</span>
+                                                    <ul class="social-share d-flex liststyle">
+                                                        <li class="instagram"><a
+                                                            href="https://leetcode.com/u/gajendra34/"><img width="30" height="30" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="leetcode"/></a>
+                                                        </li>
+                                                        <li class="linkedin"><a
+                                                            href="https://www.codechef.com/users/gajendra349"><img width="30" height="30" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/></a>
+                                                        </li>
+                                                        <li class="facebook"><a href="https://atcoder.jp/users/gajendra349"><img width="30" height="30" src='https://img.atcoder.jp/assets/logo.png' alt="atcoder"/></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
