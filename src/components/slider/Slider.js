@@ -1,4 +1,4 @@
-import profile from './profile.jpg'
+import profile from './profile3.jpg'
 import FeatherIcon from 'feather-icons-react';
 import Typed from 'typed.js'
 import React from 'react'
