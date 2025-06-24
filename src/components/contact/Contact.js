@@ -70,7 +70,7 @@ ${data.message}`;
                                 <div class="social-area">
                                     <div class="name">FIND WITH ME</div>
                                     <div class="social-icone">
-                                        <a href="https://www.instagram.com/gajendra.mahavar"><FeatherIcon icon="instagram" /></a>
+                                        <a href="https://www.instagram.com/thisis.ravi34"><FeatherIcon icon="instagram" /></a>
                                         <a href="https://www.linkedin.com/in/gajendra-mahavar-893010256"><FeatherIcon icon="linkedin" /></a>
                                         <a href="https://github.com/Gajendra34"><FeatherIcon icon="github" /></a>
                                     </div>
