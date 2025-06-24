@@ -100,7 +100,7 @@ const Header = () => {
                             <span class="title">find with me</span>
 
                             <ul class="social-share d-flex liststyle">
-                                <li class="instagram"><a href="https://www.instagram.com/gajendra.mahavar"><FeatherIcon icon="instagram" /></a>
+                                <li class="instagram"><a href="https://www.instagram.com/thisis.ravi34"><FeatherIcon icon="instagram" /></a>
                                 </li>
                                 <li class="linkedin"><a href="https://www.linkedin.com/in/gajendra-mahavar-893010256"><FeatherIcon icon="linkedin" /></a>
                                 </li>
