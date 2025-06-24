@@ -1,4 +1,4 @@
-import logo from './logo1.jpg';
+import logo from './logo2.png';
 import FeatherIcon from 'feather-icons-react';
 import { useState, useEffect } from 'react';
 // import './Header.css'
